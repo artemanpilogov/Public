@@ -1,7 +1,7 @@
 ``` mermaid
 graph LR;
-    SANDBOX-->TEST;
-    TEST-->PRODUCTION;
+    DEV_SANDBOX-->TEST_SANDBOX;
+    TEST_SANDBOX-->AppSource;
 ```
 
 ```mermaid
