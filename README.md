@@ -5,14 +5,14 @@ Purpose: Development and testing
 
 Link: https://businesscentral.dynamics.com/98a9a56b-05b0-4d5c-95e2-37f22a0b5c6b/SKG-BCS-DEV01/
 
-Repo Branch: uat
+Repo Branch: feature
 
 ## TEST_SANDBOX
 Purpose: Environment for user acceptance testing
 
 Link: https://businesscentral.dynamics.com/98a9a56b-05b0-4d5c-95e2-37f22a0b5c6b/SKG-BCS-TST01/
 
-Repo Branch: release
+Repo Branch: test
 
 # **Delivery Path**
 
